@@ -1,5 +1,5 @@
 -  Hi, I’m Ananya
--  I’m currently pursuing BTech CSE
+-  I’m currently pursuing BTech CSE (Data Science)
 -  How to reach me -  ranjan.ananya5@gmail.com
 
 
